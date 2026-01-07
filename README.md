@@ -29,8 +29,7 @@
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Technologist.png" alt="Tech" width="40" />
-  <h3>Technical Arsenal</h3>
+  <h3 align="center">💻 Technical Skills 🛠️</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
@@ -49,9 +48,5 @@
 
   <br>
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MtynmM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtynmM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
 
 </div>
