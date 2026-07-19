@@ -8,7 +8,7 @@
   
   <p>
     Focusing on <b>End-to-End ML Architectures</b>, <b>Data Engineering</b>, and <b>Scalable APIs</b>.<br>
-    Former Software Engineering Intern at <i>Sapa(optic)</i> | Bridging Hardware & AI.
+    Former Software Engineering Intern at <i>Quantum Center(CQST)</i> | Bridging Hardware & AI.
   </p>
 
   <br>
